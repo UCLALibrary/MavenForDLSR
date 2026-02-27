@@ -3,27 +3,27 @@
   <groupId>edu.ucla.library.maven</groupId>
   <artifactId>dlsr-maven-repo</artifactId>
   <versioning>
-    <lastUpdated>20260220185225</lastUpdated>
+    <lastUpdated>20260227182017</lastUpdated>
     <snapshot>
-      <timestamp>20260220.185225</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20260227.182017</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20260220.185225-1</value>
-        <updated>20260220185225</updated>
+        <value>1.0-20260227.182017-6</value>
+        <updated>20260227182017</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20260220.185225-1</value>
-        <updated>20260220185225</updated>
+        <value>1.0-20260227.182017-6</value>
+        <updated>20260227182017</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20260220.185225-1</value>
-        <updated>20260220185225</updated>
+        <value>1.0-20260227.182017-6</value>
+        <updated>20260227182017</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
